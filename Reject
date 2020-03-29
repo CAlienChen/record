@@ -516,14 +516,6 @@ DOMAIN,etl.xlmc.sandai.net
 # > 同花顺
 DOMAIN,adm.10jqka.com.cn
 DOMAIN,stat.10jqka.com.cn
-# (X)
-# > 喜马拉雅
-DOMAIN,ad.ximalaya.com
-DOMAIN,adbs.ximalaya.com
-DOMAIN,adse.ximalaya.com
-DOMAIN,adse.wsa.ximalaya.com
-DOMAIN,adbehavior.wsa.ximalaya.com
-DOMAIN,adsebs.ximalaya.com
 # (Y)
 # > Youku
 DOMAIN-SUFFIX,atm.youku.com
